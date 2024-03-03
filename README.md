@@ -1,4 +1,4 @@
 <div align="left">
-<a href="/README_zh-CN.md">中文</a> &nbsp;|&nbsp;
-<a href="/README.md">English</a>
+<a href="/README_EN.md">English</a> &nbsp;|&nbsp;
+<a href="/README.md">Русский</a>
 </div>
