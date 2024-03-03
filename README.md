@@ -4,3 +4,6 @@
 </div>
 
 <h2 align="center">Репозитории моих приложении типа. Сделано с любовью :)</h2>
+<p align="center">
+  <img src="https://i.ibb.co/YTXvX49/Wallpaper3.png">
+</p>
