@@ -57,4 +57,7 @@
 - [Sova V](https://t.me/sovaV)
 - [VK mp3 mod](https://github.com/egormetlitsky/vkmp3mod-builds/releases)
 - [Nekogram](https://nekogram.app/)
-- [YoWhatsApp 4PDA](https://4pda.to/forum/index.php?showtopic=186375&st=36240#entry94009972)
+- [YoWhatsApp 4PDA](https://4pda.to/forum/index.php?showtopic=186375&st=36240#entry94009972) **`MOD`**
+- [Element](https://element.io/)
+- [Element uptodown](https://element.ru.uptodown.com/android)
+- [exteraGram](https://exteragram.app/)
