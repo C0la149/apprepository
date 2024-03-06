@@ -61,5 +61,4 @@
 - [Element](https://element.io/)
 - [Element uptodown](https://element.ru.uptodown.com/android)
 - [exteraGram](https://exteragram.app/)
-- [exteraGram](https://exteragram.app/)
 - [Viber](https://www.viber.com/)
