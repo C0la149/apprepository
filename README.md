@@ -82,7 +82,7 @@
 
 ### Браузеры для Android
 - [Firefox](https://trashbox.ru/link/firefox-android)
-- [Opera Touch}(https://www.opera.com/ru/mobile/touch)
+- [Opera Touch](https://www.opera.com/ru/mobile/touch)
 - [Opera GX](https://www.opera.com/ru/gx)
 - [Яндекс Браузер](https://trashbox.ru/link/yandex-browser-android)
 - [Google Chrome](https://trashbox.ru/link/chrome-android)
