@@ -96,6 +96,12 @@
 - [Larix Broadcaster](https://apkpure.net/ru/larix-broadcaster/com.wmspanel.larix_broadcaster?ysclid=lvo0uymxhp360051758)
 - [DU Recorder](https://www.du-recorder.com/)
 
+Небольшая инфа про потоковое вещание. Если углубляться в потоковое вещание, и иметь очень большой интерес, то вполне можно эфир поднять даже через Termux. Ссылку на Termux оставлю тут. :)
+p.s вещать вполне можно как через ffmpeg. А Termux по сути почти что линукс полноценный, так что все в ваших руках :D
+В интернете полно информации о том как можно сделать эфир через ffmpeg. Для примера оставлю тут. https://www.youtube.com/watch?v=gbt57AY0WEY
+
+- [Termux](https://github.com/termux/termux-app/releases)
+
 ### Музыка для Android
 - [VK X](https://vkx.app/)
 - [Spotify](https://pdalife.to/spotify-music-android-a16025.html)
