@@ -62,3 +62,35 @@
 - [Element uptodown](https://element.ru.uptodown.com/android)
 - [exteraGram](https://exteragram.app/)
 - [Viber](https://www.viber.com/)
+- [Telegram X] (https://trashbox.ru/link/telegram-x-android?ysclid=lvny46r6ca322875406)
+- [Discord TrashBox] (https://trashbox.ru/link/discord-android?ysclid=lvny7h3b7t500013104)
+- [Discord SoftPortal] (https://www.softportal.com/software-44153-discord.html?ysclid=lvny8yh3gp614333423)
+- [OpenVK] (https://f-droid.org/packages/uk.openvk.android.legacy/)
+
+### Банки для Android
+- [Сбербанк] (https://apps.sber.ru/apps/sberbank-online/)
+- [Почта Банк] (https://pochta-bank.softonic.ru/android)
+- [ЮMoney] (https://promo.yoomoney.ru/app)
+- [ЮMoney TrashBox] (https://trashbox.ru/link/yoomoney-android)
+- [Тинькофф] (https://www.tinkoff.ru/apps/)
+- [Тинькофф comss] (https://www.comss.ru/page.php?id=10438)
+- [ВТБ] (https://www.vtb.ru/personal/online-servisy/vtb-online-android/)
+- [Ozon Банк] (https://trashbox.ru/topics/168347/ozon-bank-17.15.0)
+- [Яндекс Пэй] (https://trashbox.ru/link/yandex-pay-android)
+- [monobank] (https://monobank.ru.uptodown.com/android)
+- [ПУМБ] (https://pumb-online.softonic.ru/android)
+
+### Браузеры для Android
+- [Firefox] (https://trashbox.ru/link/firefox-android)
+- [Opera Touch} (https://www.opera.com/ru/mobile/touch)
+- [Opera GX] (https://www.opera.com/ru/gx)
+- [Яндекс Браузер] (https://trashbox.ru/link/yandex-browser-android)
+- [Google Chrome] (https://trashbox.ru/link/chrome-android)
+- [Puffin Web Browser] (https://trashbox.ru/link/puffin-web-browser-android)
+
+### Потоковое вещание для Android
+- [Streamlabs: Live Streaming] (https://apkpure.com/ru/streamlabs-live-streaming/com.streamlabs?ysclid=lvo0jxezxf833010502)
+- [ManyCam Easy live streaming] (https://apkpure.net/ru/manycam-easy-live-streaming/com.visicommedia.manycam)
+- [CameraFi Live] (https://trashbox.ru/link/camerafi-live-android?ysclid=lvo0ob3ggp249079297)
+- [OneStream Live] (https://apkpure.net/ru/onestream-live/com.onestream.live?ysclid=lvo0rkt1c4388334030)
+- [Larix Broadcaster] (https://apkpure.net/ru/larix-broadcaster/com.wmspanel.larix_broadcaster?ysclid=lvo0uymxhp360051758)
