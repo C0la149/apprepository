@@ -100,7 +100,9 @@
 
 p.s вещать вполне можно как через ffmpeg. А Termux по сути почти что линукс полноценный, так что все в ваших руках :D
 
-В интернете полно информации о том как можно сделать эфир через ffmpeg. Для примера оставлю тут. https://www.youtube.com/watch?v=gbt57AY0WEY
+В интернете полно информации о том как можно сделать эфир через ffmpeg. Для примера оставлю тут. 
+
+https://www.youtube.com/watch?v=gbt57AY0WEY
 
 - [Termux](https://github.com/termux/termux-app/releases)
 
